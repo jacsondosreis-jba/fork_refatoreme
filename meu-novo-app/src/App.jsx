@@ -3,7 +3,9 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 
 import './App.css'
-import Header from './header'
+import Header from './components/header'
+import Main from './components/main'
+import Footer from'./components/footer'
 
 
  function App() {
@@ -12,9 +14,9 @@ import Header from './header'
    
   return (
    <div>
-   <Header />
-
-   <main></main> 
+   <Header /> 
+   <Main/>
+   <Footer/>
    </div>
   )
 }
