@@ -1,3 +1,5 @@
+
+
 /* Banner Principal */
 .banner {
     background: linear-gradient(135deg, #00509e, #003366);
@@ -5,12 +7,12 @@
     text-align: center;
     padding: 5rem 2rem;
 }
-
+/* h2 */
 .banner h2 {
     font-size: 2.5rem;
     margin-bottom: 1rem;
 }
-
+/* botão */
 #cta-btn {
     padding: 0.8rem 2rem;
     font-size: 1rem;
@@ -23,10 +25,11 @@
     margin-top: 1rem;
     transition: background-color 0.3s;
 }
-
+/* botão */
 #cta-btn:hover {
     background-color: #e6b800;
 }
+
 
 /* Seção de Cards */
 .cards-section {
