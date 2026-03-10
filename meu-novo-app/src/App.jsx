@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Header from './components/header'
 import Main from './components/main'
 import Footer from'./components/footer'
-import Serviços from './components/serviços'
+/* import Serviços from './components/serviços' */
 
 
 
@@ -17,12 +17,13 @@ import Serviços from './components/serviços'
    <Footer/>
    
    </div>
-
-   
   )
 }
 
- function App2() {
+export default App
+
+
+ /* function App2() {
   const [count, setCount] = useState(0)
 
    
@@ -37,4 +38,7 @@ import Serviços from './components/serviços'
 }
 
 export default App2
+*/
 
+
+ 

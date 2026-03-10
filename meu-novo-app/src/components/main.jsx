@@ -1,7 +1,8 @@
  
 
     import './main.css'
-    import logo from  './assets'
+    import './'
+    
 
 function Main(){
     return(
@@ -44,6 +45,14 @@ function Main(){
             </div>
          
         </section>
+
+        <section className='contatos'>
+            <h1>TechNova</h1>
+            <h2 > <img src=' '> </img> 0800 0800 0800</h2>
+            <h2>WhatsApp</h2>
+
+        </section>
+
     </main>
     
 
