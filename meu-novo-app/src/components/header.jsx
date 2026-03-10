@@ -9,7 +9,7 @@ function Header(){
             <ul>
                 
                 <li><a href="#home">Início</a></li>
-                <li><a href="#services">Serviços</a></li>
+                <li><a href="serviços.jsx">Serviços</a></li>
                 <li><a href="#contact">Contato</a></li>
             </ul>
         </nav>
